@@ -1,4 +1,4 @@
 # learn
-This is my first Git Repositiry
+This is my first Git Repositiry.
 <br>
-My name  is Payal
+My name  is Payal.
